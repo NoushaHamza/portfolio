@@ -1,0 +1,76 @@
+.xyz
+{
+    flex-direction: column;
+    background-image: url("./coverpic.jpg");
+    background-size: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: black;
+    
+}
+.abc
+{
+    
+    flex-basis: 30%;
+    
+}
+.def
+{
+    justify-content:center;
+    background-image: url(./coverpic.jpg);
+}
+.bgclr
+{
+    background-color:#acacb0;
+
+  
+    
+    
+}
+.exp1, .exp2{
+    justify-content: center;
+}
+.conbg
+{
+    background-color:#424168;
+    color: white;
+}
+.iconrow
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.cardbg
+{
+    background-color: #4069ab;
+    color: white;
+    
+}
+.cardbgb
+{
+    background-color: white;
+    color: black;
+    
+}
+.bgskill
+{
+    background-image: url(./coverpic.jpg);
+    
+}
+.imgsize{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+
+    
+
+}
+@media screen and (max-width: 1034px) {
+    #col1 {
+      flex: 100%;
+    }
+  }
+
+
